@@ -4,3 +4,7 @@ apple
 orange
 banana
 pineapple
+watermelon
+Guvava
+
+Happy Hacktober :)
